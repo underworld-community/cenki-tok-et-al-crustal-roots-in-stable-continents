@@ -1,4 +1,4 @@
-<table><tr><td><img src='./raytay_init.png'></td><td><img src='./raytay.png'></td></tr></table>
+<table><tr><td><img src='./FigC.png'></td></table>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/cenki-tok-et-al-crustal-roots-in-stable-continents/master)
 
