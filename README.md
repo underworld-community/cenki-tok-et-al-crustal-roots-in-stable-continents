@@ -23,10 +23,8 @@ Files
 
 File | Purpose
 --- | ---
-`RayTay.ipynb` | A simple Rayleigh Taylor notebook. 
-`VrmsCaseA.txt`| Expected results data file. 
-`raytay.png` | Image file.
-`raytay_init.png` | Initial image file.
+`Script-G47301_285-Cenki-Tok-etal-1.ipynb` | Input file script.
+`FigC.png` | Configuration C, after 25% extension.
 
 Tests - todo
 -----
