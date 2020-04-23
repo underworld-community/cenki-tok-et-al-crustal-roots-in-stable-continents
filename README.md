@@ -1,23 +1,19 @@
 <table><tr><td><img src='./raytay_init.png'></td><td><img src='./raytay.png'></td></tr></table>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/template-project/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/cenki-tok-et-al-crustal-roots-in-stable-continents/master)
 
 About
 -----
-**_Please replace the following with information about your own repository._**
-
-Welcome! This is a template git repository for creating REPRODUCIBLE Underworld code based projects.
-
-REPRODUCIBLE because this project:
-1. Is stored in a git repository.
-2. Uses a Dockerfile to recreate the exact project environment.
-
-The two features above enable the project to take advantage of software engineering and open source principles, such as:
-_version control_, _reproducible environments_, _collaboration_ (Pull Requests, Binderhub), _continuous integration_. 
-
-(See https://the-turing-way.netlify.com/, for a general introduction to these principle. N.B. it is data-science focussed)  
-
-You can use this repository as a GitHub template to start a new repository of your own that matches the requirements of the underworld-community. To get started, hit the "Use this template" button above. See this [quick start guide]( https://github.com/underworld-community/template-project/wiki/Quick-start) for more information.
+Away from tectonically active regions, the continental crust has an average thickness of
+40 ± 1 km. Yet, it shows a remarkable variability from 25 to 65 km, comparable to that of
+the most tectonically active regions. Here, we consider the problem of the formation and
+preservation of anomalous deep crustal roots in stable intracontinental regions. Using two-
+dimensional thermomechanical experiments, we show that the interplay between partial
+melting, the formation of garnet-pyroxene-bearing rocks, and their strain rate–dependent
+retrogression result in the preservation of thick and strong crustal roots. We argue that it
+is the partitioning into narrow regions of strain, retrogression, and weakening coupled into
+a positive feedback loop that explains why strong high-grade crustal roots remain largely
+immune to gravitational stresses and are able to persist over hundreds of millions of years.
 
 
 Files
@@ -32,24 +28,9 @@ File | Purpose
 `raytay.png` | Image file.
 `raytay_init.png` | Initial image file.
 
-Tests
+Tests - todo
 -----
-**_Please specify how your repository is tested for correctness._**
-**_Tests are not required for `laboratory` tagged repositories, although still encouraged._**
-**_All other repositories must include a test._**
-
-The attained peak VRMs time is tested against an expected value. If it is outside a given tolerance, an exception is raised.
 
 Parallel Safe
 -------------
-**_Please specify if your model will operate in parallel, and any caveats._**
-
-Yes, test result should be obtained in both serial and parallel operation.
-
-Check-list
-----------
-- [ ] (Required) Have you replaced the above sections with your own content? 
-- [ ] (Required) Have you updated the Dockerfile to point to your required UW/UWG version? 
-- [ ] (Required) Have you included a working Binder badge/link so people can easily run your model?
-                 You probably only need to replace `template-project` with your repo name. 
-- [ ] (Optional) Have you included an appropriate image for your model? 
+Yes
