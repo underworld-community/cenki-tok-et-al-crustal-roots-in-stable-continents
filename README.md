@@ -1,8 +1,13 @@
-<table><tr><td><img src='./FigC.png'></td></table>
+<table><tr>
+  <td><img src='./media/GeolMov.gif'></td>
+  <td><img src='./media/FigC.png'></td>
+  </tr></table>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/cenki-tok-et-al-crustal-roots-in-stable-continents/master)
 
-About
+https://doi.org/10.1130/G47301.1
+
+Abstract
 -----
 Away from tectonically active regions, the continental crust has an average thickness of
 40 ± 1 km. Yet, it shows a remarkable variability from 25 to 65 km, comparable to that of
@@ -24,7 +29,8 @@ Files
 File | Purpose
 --- | ---
 `Script-G47301_285-Cenki-Tok-etal-1.ipynb` | Input file script.
-`FigC.png` | Configuration C, after 25% extension.
+`media/FigC.png` | Configuration C, after 25% extension.
+`media/GeolMov.gif` | Evolution of the model.
 
 Tests - todo
 -----
