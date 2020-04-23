@@ -1,7 +1,6 @@
-<table><tr>
-  <td><img src='./media/GeolMov.gif'></td>
-  <td><img src='./media/FigC.png'></td>
-  </tr></table>
+<img src='./media/GeolMov.gif'>
+
+<img src='./media/FigC.png'>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/cenki-tok-et-al-crustal-roots-in-stable-continents/master)
 
