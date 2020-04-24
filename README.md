@@ -13,6 +13,7 @@ https://doi.org/10.1130/G47301.1
 
 Abstract
 -----
+
 Away from tectonically active regions, the continental crust has an average thickness of
 40 ± 1 km. Yet, it shows a remarkable variability from 25 to 65 km, comparable to that of
 the most tectonically active regions. Here, we consider the problem of the formation and
@@ -27,8 +28,6 @@ immune to gravitational stresses and are able to persist over hundreds of millio
 
 Files
 -----
-**_Please give a quick overview of purpose of the model files/directories included in this repo._**
-**_Note that while light data files are fine,  heavy data should not be included in your repository._**
 
 File | Purpose
 --- | ---
@@ -36,9 +35,16 @@ File | Purpose
 `media/FigC.png` | Configuration C, after 25% extension.
 `media/GeolMov.gif` | Evolution of the model.
 
-Tests - todo
------
 
 Parallel Safe
 -------------
 Yes
+
+
+Usage Issues / Feedback
+-----
+Please submit a GitHub Issue if you experience difficulties running this model.
+
+
+Todo - Tests / Runtime Notes
+-----
