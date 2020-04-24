@@ -1,10 +1,15 @@
 <img src='./media/GeolMov.gif'>
 
+
 <img src='./media/FigC.png'>
+
+Launch model via Binder
+-------
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/cenki-tok-et-al-crustal-roots-in-stable-continents/master)
 
 https://doi.org/10.1130/G47301.1
+
 
 Abstract
 -----
